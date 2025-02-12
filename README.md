@@ -1,3 +1,11 @@
+Merging Fixes
+======
+- https://github.com/mattloper/chumpy/pull/58
+- https://github.com/mattloper/chumpy/pull/59
+
+https://github.com/nico-von-huene/chumpy.git
+https://github.com/uyoung-jeong/chumpy.git
+
 chumpy
 ======
 
